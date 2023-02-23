@@ -1,0 +1,6 @@
+MerchantId:4f204502-3ef7-4b6a-b478-b20cdb1f22b9
+BusinessName:Karame Karame LTD
+ContactName: Eric BURASANZWE
+ContactEmail: kkarameltd@gmail.com
+ContactTelephoneNumber: 250788716443
+ShortCode: 70260
